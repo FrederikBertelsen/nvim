@@ -1,4 +1,4 @@
-# LazyVim
+# 💤 LazyVim
 With some enabled [extra plugins](https://github.com/FrederikBertelsen/nvim/blob/main/lazyvim.json).
 
 ## and the following:
